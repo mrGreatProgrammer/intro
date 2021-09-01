@@ -77,9 +77,9 @@ server.listen(port);
 
 
 
-const userPerson = {
-    userName: 'Jamshed',
-    userAge: 16,
-    userGender: 'male',
-    programmer: true
-}
+// const userPerson = {
+//     userName: 'Jamshed',
+//     userAge: 16,
+//     userGender: 'male',
+//     programmer: true
+// }
